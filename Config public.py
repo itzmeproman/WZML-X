@@ -1,4 +1,4 @@
-BOT_TOKEN = "6548068133:AAHhGZvP2Xr_dq9dP5Tc_Zedb0cbk_vQBf8"                              # Require restart after changing it while bot running
+BOT_TOKEN = "6936427405:AAFzNCPGQJD1AmTUM06-YuejKvqTrkCArYA"                              # Require restart after changing it while bot running
 OWNER_ID = "6258381233"                               # Require restart after changing it while bot running
 TELEGRAM_API = "21310924"                           # Require restart after changing it while bot running
 TELEGRAM_HASH = "fa4c3f582286d969ab1d08449e9533e8"                          # Require restart after changing it while bot running
