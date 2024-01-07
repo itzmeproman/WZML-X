@@ -74,7 +74,7 @@ LINKS_LOG_ID = "-1001936525973"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = ""
-BASE_URL = "https://poblic-81e74fee795e.herokuapp.com"
+BASE_URL = "https://dontdelete-80494dd4ff92.herokuapp.com/"
 BASE_URL_PORT = ""
 WEB_PINCODE = "False"
 
