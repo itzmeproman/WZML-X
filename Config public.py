@@ -5,7 +5,7 @@ TELEGRAM_HASH = "fa4c3f582286d969ab1d08449e9533e8"                          # Re
 
 # OPTIONAL CONFIG
 USER_SESSION_STRING = ""                    # Require restart after changing it while bot running
-DATABASE_URL = "mongodb+srv://itzmeproman:itzmeproman@cluster0.otf0bax.mongodb.net/?retryWrites=true&w=majority"                           # Require restart after changing it while bot running
+DATABASE_URL = "mongodb+srv://sai:sai@cluster0.ayo8gc4.mongodb.net/?retryWrites=true&w=majority"                           # Require restart after changing it while bot running
 DOWNLOAD_DIR = "/usr/src/app/downloads/"    # Require restart after changing it while bot running
 CMD_SUFFIX = ""                             # Require restart after changing it while bot running
 AUTHORIZED_CHATS = "-1001985920600"                       # Require restart after changing it while bot running
@@ -116,7 +116,7 @@ MDL_TEMPLATE = ""
 # Telegraph
 TITLE_NAME = "WZ-M/L-X"
 AUTHOR_NAME = "WZML-X"
-AUTHOR_URL = "https://t.me/WZML_X"
+AUTHOR_URL = "https://t.me/Anime_Compass"
 COVER_IMAGE = ""
 
 # Extra
