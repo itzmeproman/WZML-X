@@ -1,5 +1,5 @@
 BOT_TOKEN = "6936427405:AAFzNCPGQJD1AmTUM06-YuejKvqTrkCArYA"                              # Require restart after changing it while bot running
-OWNER_ID = "6258381233"                               # Require restart after changing it while bot running
+OWNER_ID = "7030439873"                               # Require restart after changing it while bot running
 TELEGRAM_API = "21310924"                           # Require restart after changing it while bot running
 TELEGRAM_HASH = "fa4c3f582286d969ab1d08449e9533e8"                          # Require restart after changing it while bot running
 
@@ -74,7 +74,7 @@ LINKS_LOG_ID = "-1001936525973"
 
 # qBittorrent/Aria2c
 TORRENT_TIMEOUT = ""
-BASE_URL = "https://deplota3-715dc6fea53e.herokuapp.com"
+BASE_URL = "https://spec-v3-a58320c71bc4.herokuapp.com/"
 BASE_URL_PORT = ""
 WEB_PINCODE = "False"
 
